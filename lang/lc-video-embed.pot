@@ -1,0 +1,171 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Composer - Video Embed Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat May 21 2016 15:51:57 GMT-0600 (MDT)\n"
+"POT-Revision-Date: Sat May 21 2016 15:52:31 GMT-0600 (MDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Live Composer - Video Embed Module"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.livecomposer.io"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a new module for embeding videos."
+msgstr ""
+
+#. Author of the plugin
+msgid "Live Composer Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://livecomposer.io"
+msgstr ""
+
+#: ../lc-video-embed.php:65
+msgid "Video Embed"
+msgstr ""
+
+#: ../lc-video-embed.php:81
+msgid "Show On"
+msgstr ""
+
+#: ../lc-video-embed.php:87
+msgid "Desktop"
+msgstr ""
+
+#: ../lc-video-embed.php:91
+msgid "Tablet"
+msgstr ""
+
+#: ../lc-video-embed.php:95
+msgid "Phone"
+msgstr ""
+
+#: ../lc-video-embed.php:101
+msgid "Video URL"
+msgstr ""
+
+#: ../lc-video-embed.php:107
+msgid "Height"
+msgstr ""
+
+#: ../lc-video-embed.php:113
+msgid "Width"
+msgstr ""
+
+#: ../lc-video-embed.php:139
+msgid "Align"
+msgstr ""
+
+#: ../lc-video-embed.php:149
+msgid "BG Color"
+msgstr ""
+
+#: ../lc-video-embed.php:159
+msgid "BG Color - Hover"
+msgstr ""
+
+#: ../lc-video-embed.php:169
+msgid "Border Color"
+msgstr ""
+
+#: ../lc-video-embed.php:179
+msgid "Border Color - Hover"
+msgstr ""
+
+#: ../lc-video-embed.php:189
+msgid "Border Width"
+msgstr ""
+
+#: ../lc-video-embed.php:200
+msgid "Borders"
+msgstr ""
+
+#: ../lc-video-embed.php:206
+msgid "Top"
+msgstr ""
+
+#: ../lc-video-embed.php:210
+msgid "Right"
+msgstr ""
+
+#: ../lc-video-embed.php:214
+msgid "Bottom"
+msgstr ""
+
+#: ../lc-video-embed.php:218
+msgid "Left"
+msgstr ""
+
+#: ../lc-video-embed.php:228
+msgid "Border Radius"
+msgstr ""
+
+#: ../lc-video-embed.php:239
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../lc-video-embed.php:250
+msgid "Minimum Height"
+msgstr ""
+
+#: ../lc-video-embed.php:264 ../lc-video-embed.php:309 ../lc-video-embed.php:358
+msgid "Padding Vertical"
+msgstr ""
+
+#: ../lc-video-embed.php:275 ../lc-video-embed.php:323 ../lc-video-embed.php:372
+msgid "Padding Horizontal"
+msgstr ""
+
+#: ../lc-video-embed.php:291 ../lc-video-embed.php:340
+msgid "Responsive Styling"
+msgstr ""
+
+#: ../lc-video-embed.php:297 ../lc-video-embed.php:346
+msgid "Disabled"
+msgstr ""
+
+#: ../lc-video-embed.php:301 ../lc-video-embed.php:350
+msgid "Enabled"
+msgstr ""
+
+#: ../lc-video-embed.php:306 ../lc-video-embed.php:317 ../lc-video-embed.php:331
+msgid "tablet"
+msgstr ""
+
+#: ../lc-video-embed.php:355 ../lc-video-embed.php:366 ../lc-video-embed.php:380
+msgid "phone"
+msgstr ""
+
+#: ../lc-video-embed.php:434
+msgid ""
+"Make sure you entered a valid URL ( ex. https://www.youtube.com/watch?"
+"v=ONHBaC-pfsk )"
+msgstr ""
+
+#: ../lc-video-embed.php:450
+msgid "A video URL needs to be set in the module options."
+msgstr ""

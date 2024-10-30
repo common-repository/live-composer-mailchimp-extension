@@ -1,0 +1,95 @@
+/* Default Styles */
+* {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+:focus {outline: 0}
+.clearfix:before,.clearfix:after {display:table;content:""}
+.clearfix:after {clear:both;}
+.clearfix {zoom:1}
+.col {margin-left:0.5%;padding:0 0.5%;border:0px solid rgba(0,0,0,0);float:left;-moz-background-clip:padding-box !important;-webkit-background-clip:padding-box !important;background-clip:padding-box !important;}
+.row .col:first-child {margin-left:0;}
+
+.col img {max-width:100%;}
+
+.required {border-color:red !important;}
+:disabled {color:#999 !important;cursor:not-allowed;}
+
+@media only screen and (min-width : 993px) {
+.d0 {display:none;}
+.d1 {width:7.875%;}
+.d2 {width:16.25%;}
+.d3 {width:24.625%;}
+.d4 {width:33.0%;}
+.d5 {width:41.375%;}
+.d6 {width:49.75%;}
+.d7 {width:58.125%;}
+.d8 {width:66.5%;}
+.d9 {width:74.875%;}
+.d10 {width:83.25%;}
+.d11 {width:91.625%;}
+.d12 {margin-left:0;width:100%;}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.d0 {display:none;}
+.d1 {width:7.875%;}
+.d2 {width:16.25%;}
+.d3 {width:24.625%;}
+.d4 {width:33.0%;}
+.d5 {width:41.375%;}
+.d6 {width:49.75%;}
+.d7 {width:58.125%;}
+.d8 {width:66.5%;}
+.d9 {width:74.875%;}
+.d10 {width:83.25%;}
+.d11 {width:91.625%;}
+.d12 {margin-left:0;width:100%;}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+.t0 {display:none;}
+.t1 {width:7.875%;}
+.t2 {width:16.25%;}
+.t3 {width:24.625%;}
+.t4 {width:33.0%;}
+.t5 {width:41.375%;}
+.t6 {width:49.75%;}
+.t7 {width:58.125%;}
+.t8 {width:66.5%;}
+.t9 {width:74.875%;}
+.t10 {width:83.25%;}
+.t11 {width:91.625%;}
+.t12 {margin-left:0;width:100%;}
+
+.row .t6:nth-child(2n-1) {margin-left:0;}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+.m0 {display:none;}
+.m1 {width:7.875%;}
+.m2 {width:16.25%;}
+.m3 {width:24.625%;}
+.m4 {width:33.0%;}
+.m5 {width:41.375%;}
+.m6 {width:49.75%;}
+.m7 {width:58.125%;}
+.m8 {width:66.5%;}
+.m9 {width:74.875%;}
+.m10 {width:83.25%;}
+.m11 {width:91.625%;}
+.m12 {margin-left:0;width:100%;}
+
+.row .m6:nth-child(2n-1) {margin-left:0;}
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 480px) {
+
+}
